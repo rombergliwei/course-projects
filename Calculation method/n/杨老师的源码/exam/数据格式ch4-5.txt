@@ -1,0 +1,12 @@
+第一行类型
+1 low order compacted,
+2 three-diagonal,
+3 hi order sparse,
+4 inverse matrix,
+5 det
+第二行方程个数
+增广矩阵
+
+如果是迭代法的话：
+初始解向量
+精度要求
